@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramalt.
 - 👀 I’m interested in API Development.
-- 🌱 I’m currently learning Design Patterns.
+- 🌱 I’m currently learning.
 - :)
 
 <!---
